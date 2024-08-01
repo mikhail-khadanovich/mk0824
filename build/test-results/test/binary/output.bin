@@ -1,0 +1,55 @@
+Tool Code: CHNS
+wTool Type: 'ToolType(toolType=Chainsaw, dailyCharge=1.49, weekdayCharge=true, weekendCharge=false, holidayCharge=true)
+Tool Brand: 'Stihl
+Rental Days: 5
+Checkout Date: 07/02/2015
+Due Date: 07/07/2015
+Daily Rental Charge: $1.49
+Charge Days: 3
+PreDiscount Charge: $4.47
+Discount Amount: $1.12
+Final Charge: $3.35
+Tool Code: LADW
+uTool Type: 'ToolType(toolType=Ladder, dailyCharge=1.99, weekdayCharge=true, weekendCharge=true, holidayCharge=false)
+Tool Brand: 'Werner
+Rental Days: 3
+Checkout Date: 07/02/2020
+Due Date: 07/05/2020
+Daily Rental Charge: $1.99
+Charge Days: 3
+PreDiscount Charge: $5.97
+Discount Amount: $0.60
+Final Charge: $5.37
+Tool Code: JAKD
+zTool Type: 'ToolType(toolType=Jackhammer, dailyCharge=2.99, weekdayCharge=true, weekendCharge=false, holidayCharge=false)
+Tool Brand: 'DeWalt
+Rental Days: 6
+Checkout Date: 09/03/2015
+Due Date: 09/09/2015
+Daily Rental Charge: $2.99
+Charge Days: 3
+PreDiscount Charge: $8.97
+Discount Amount: $0.00
+Final Charge: $8.97
+Tool Code: JAKR
+zTool Type: 'ToolType(toolType=Jackhammer, dailyCharge=2.99, weekdayCharge=true, weekendCharge=false, holidayCharge=false)
+Tool Brand: 'Ridgid
+Rental Days: 9
+Checkout Date: 07/02/2015
+Due Date: 07/11/2015
+Daily Rental Charge: $2.99
+Charge Days: 5
+PreDiscount Charge: $14.95
+Discount Amount: $0.00
+Final Charge: $14.95
+Tool Code: JAKR
+zTool Type: 'ToolType(toolType=Jackhammer, dailyCharge=2.99, weekdayCharge=true, weekendCharge=false, holidayCharge=false)
+Tool Brand: 'Ridgid
+Rental Days: 4
+Checkout Date: 07/02/2020
+Due Date: 07/06/2020
+Daily Rental Charge: $2.99
+Charge Days: 1
+PreDiscount Charge: $2.99
+Discount Amount: $1.50
+Final Charge: $1.49
